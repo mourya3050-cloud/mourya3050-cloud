@@ -34,7 +34,7 @@ University of Wolverhampton, United Kingdom
 
 - 📍 Wolverhampton, UK
 - 📧 [Your Email](mailto:mourya3050@gmail.com)
-- 💻 [GitHub Profile](mourya3050-cloud)
+- 💻 [GitHub Profile](https://github.com/mourya3050-cloud)
 - 💻[LinkedIn](https://www.linkedin.com/in/shiv-kumar-muraw/)
 
 ---
