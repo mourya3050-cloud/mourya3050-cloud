@@ -1,6 +1,6 @@
 # Hi, I'm Shiv Kumar Muraw 👋
 
-### Final-Year BSc Computer Science Student
+### Final-Year BSc (Hons) Computer Science Student
 
 📍 Wolverhampton, United Kingdom
 
@@ -15,7 +15,7 @@ I enjoy building practical applications, learning new technologies and solving r
 
 ## 🎓 Education
 
-**BSc Computer Science**  
+**BSc (Hons) Computer Science**  
 University of Wolverhampton, United Kingdom
 
 ---
